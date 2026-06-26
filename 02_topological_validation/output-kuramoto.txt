@@ -1,0 +1,7 @@
+================================================================
+NUMERICAL ILLUSTRATION OF THE TOPOLOGICAL KURAMOTO SCALING LAW
+================================================================
+Structure: Linear Link                | Nodes (N):  2 | Max Eigenvalue: 1.0000 | Predicted kappa: 9.1162
+Structure: Micro-Tetrahedral Cluster  | Nodes (N):  4 | Max Eigenvalue: 3.0000 | Predicted kappa: 10.0994
+Structure: Macro-Tetrahedral Cluster  | Nodes (N): 16 | Max Eigenvalue: 6.0000 | Predicted kappa: 8.6247
+================================================================
