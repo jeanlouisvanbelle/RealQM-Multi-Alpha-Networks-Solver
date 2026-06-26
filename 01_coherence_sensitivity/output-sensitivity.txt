@@ -1,0 +1,11 @@
+======================================================================
+LAUNCHING NEUTRON COHERENCE SENSITIVITY MATRIX
+Evaluating network relaxation behavior across dampening variances...
+======================================================================
+[eta = 0.600] -> Base U0: 105.5980 MeV | Relaxed U_min:  91.6608 MeV | Yield Delta E: 13.9372 MeV | Derived kappa: 9.1568
+[eta = 0.650] -> Base U0: 112.7271 MeV | Relaxed U_min:  97.7947 MeV | Yield Delta E: 14.9324 MeV | Derived kappa: 8.5465
+[eta = 0.676] -> Base U0: 116.4995 MeV | Relaxed U_min: 101.2016 MeV | Yield Delta E: 15.2979 MeV | Derived kappa: 8.3423
+[eta = 0.700] -> Base U0: 120.0213 MeV | Relaxed U_min: 104.3210 MeV | Yield Delta E: 15.7003 MeV | Derived kappa: 8.1285
+[eta = 0.750] -> Base U0: 127.4806 MeV | Relaxed U_min: 110.9127 MeV | Yield Delta E: 16.5679 MeV | Derived kappa: 7.7029
+======================================================================
+Matrix sweep complete. Ready to import data values directly into JCM table.
