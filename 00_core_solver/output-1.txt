@@ -1,0 +1,34 @@
+Launching Bounded Network Solver...
+Static Starting Grid Energy Baseline: 116.4995 MeV
+----------------------------------------------------------------------
+ -> Iteration 01 | Current System Energy: 103.6714 MeV | Rel. Shift: 12.8281 MeV
+ -> Iteration 02 | Current System Energy: 101.5701 MeV | Rel. Shift: 14.9294 MeV
+ -> Iteration 03 | Current System Energy: 101.3907 MeV | Rel. Shift: 15.1088 MeV
+ -> Iteration 04 | Current System Energy: 101.3624 MeV | Rel. Shift: 15.1371 MeV
+ -> Iteration 05 | Current System Energy: 101.3329 MeV | Rel. Shift: 15.1666 MeV
+ -> Iteration 06 | Current System Energy: 101.3105 MeV | Rel. Shift: 15.1890 MeV
+ -> Iteration 07 | Current System Energy: 101.3047 MeV | Rel. Shift: 15.1948 MeV
+ -> Iteration 08 | Current System Energy: 101.2980 MeV | Rel. Shift: 15.2015 MeV
+ -> Iteration 09 | Current System Energy: 101.2931 MeV | Rel. Shift: 15.2064 MeV
+ -> Iteration 10 | Current System Energy: 101.2868 MeV | Rel. Shift: 15.2127 MeV
+ -> Iteration 11 | Current System Energy: 101.2041 MeV | Rel. Shift: 15.2954 MeV
+ -> Iteration 12 | Current System Energy: 101.2037 MeV | Rel. Shift: 15.2958 MeV
+ -> Iteration 13 | Current System Energy: 101.2024 MeV | Rel. Shift: 15.2971 MeV
+ -> Iteration 14 | Current System Energy: 101.2019 MeV | Rel. Shift: 15.2976 MeV
+ -> Iteration 15 | Current System Energy: 101.2019 MeV | Rel. Shift: 15.2976 MeV
+ -> Iteration 16 | Current System Energy: 101.2018 MeV | Rel. Shift: 15.2977 MeV
+ -> Iteration 17 | Current System Energy: 101.2018 MeV | Rel. Shift: 15.2977 MeV
+ -> Iteration 18 | Current System Energy: 101.2016 MeV | Rel. Shift: 15.2979 MeV
+ -> Iteration 19 | Current System Energy: 101.2016 MeV | Rel. Shift: 15.2979 MeV
+ -> Iteration 20 | Current System Energy: 101.2016 MeV | Rel. Shift: 15.2979 MeV
+ -> Iteration 21 | Current System Energy: 101.2016 MeV | Rel. Shift: 15.2979 MeV
+ -> Iteration 22 | Current System Energy: 101.2016 MeV | Rel. Shift: 15.2979 MeV
+----------------------------------------------------------------------
+
+=== FINAL MANUSCRIPT RESULTS ===
+Convergence Verification Status: True
+Total Iterations Executed: 22
+Static Grid Energy (U_0): 116.4995 MeV
+Relaxed Grid Energy (U_min): 101.2016 MeV
+Symmetry Breaking Energy Yield (Delta E): 15.2979 MeV
+Mathematically Derived Phase-Lock Multiplier (kappa): 8.3423
